@@ -1,0 +1,2 @@
+# Quick Thoughts
+Standardize the use of object shorthand notation
